@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle</h1>
-<h3 align="center">a Librarian turned Data Engineer</h3>
+<h3 align="center">a Librarian turned Data Engineer / Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danimorwen&label=Profile%20views&color=0e75b6&style=flat" alt="danimorwen" /> </p>
 
