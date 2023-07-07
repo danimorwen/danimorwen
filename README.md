@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Twist**
 
-- 🌱 I’m focusing on learning **GCP, Scala**
+- 🌱 I’m focusing on learning **GCP, Kubernetes, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danimorwen](https://github.com/danimorwen)
 
